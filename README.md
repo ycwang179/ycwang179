@@ -24,10 +24,10 @@ My work focuses on turning complex data and research questions into practical an
 
 ### Featured Projects
 
+- 📐 **MPST** — Penalized spline methodology for complex spatial domains
 - 🌱 **Chilli Thrips Treatment Analysis** — Mixed models, statistical consulting, R Shiny, and simulation-based study planning
 - 🧠 **Maze Generation with GANs and DRL** — GAN, DCGAN, and DQN maze-generation models in PyTorch
-- 📈 **Chocolate Production Forecasting** — Interactive time-series forecasting with R Shiny
 - 📝 **Text Classification for Ledger Expenses** — NLP classification using TF-IDF and linear models
-- 📐 **MPST** — Penalized spline methodology for complex spatial domains
+- 📈 **Chocolate Production Forecasting** — Interactive time-series forecasting with R Shiny
 
 I am particularly interested in applying **statistical reasoning, data science, and machine learning** to real-world scientific and business problems.
