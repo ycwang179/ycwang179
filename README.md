@@ -1,4 +1,4 @@
-# Hi, I'm Yu-Chun Wang 👋
+# Hi, I'm Yu-Chun Wang
 
 I am a Ph.D. in Statistical Science with experience in **applied statistics, data science, machine learning, and statistical modeling**.
 
